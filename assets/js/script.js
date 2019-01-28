@@ -1,3 +1,4 @@
+// Cette fonction permet de changer l'image au survole.
 // On déclare la fonction avec comme nom: changeimage
 function changeimage() {
 // on récupère la source de la seconde image
